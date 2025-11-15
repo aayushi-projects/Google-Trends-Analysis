@@ -124,4 +124,4 @@ The dashboard enables users to: - Track keyword performance over time.
 
 ## 👨‍💻 Author
 
-**Harshvardhan Tiwari**
+**Aayushi Patle**
